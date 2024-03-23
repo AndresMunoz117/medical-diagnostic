@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Logo from './Logo.svg'
+import Logo from './logo.svg'
 import { Autocomplete, TextField } from "@mui/material";
 import { useNavigate } from "react-router-dom";
 
